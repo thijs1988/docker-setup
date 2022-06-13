@@ -1,0 +1,16 @@
+/app/bin
+/app/config
+/app/migrations
+/app/node_modules
+/app/vendor
+/app/.env
+
+/mysql/ca.pem
+/mysql/ca-key.pem
+/mysql/client-cert.pem
+/mysql/client-key.pem
+/mysql/private_key.pem
+/mysql/public_key.pem
+/mysql/server-cert.pem
+/mysql/server-key.pem
+
